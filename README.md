@@ -5,5 +5,5 @@
 Para rodar esse arquivo digite:
 
 ```
-pip instal test.py
+node app .js
 ```
