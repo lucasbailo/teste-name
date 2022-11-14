@@ -2,7 +2,7 @@
 
 > Status do projeto: Em dev.
 
-Para rodar esse arquivo digite:
+Para rodar esse arquivo na sua máquina, digite:
 
 ```
 node app .js
